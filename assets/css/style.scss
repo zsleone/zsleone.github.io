@@ -1,0 +1,23 @@
+---
+---
+@import "{{ site.theme }}";
+
+body {
+  background-color: #e8f5e1;
+}
+
+h1, h2, h3, h4, h5, h6, 
+.site-title, .site-title a {
+  color: #2f4858
+}
+
+a {
+  color: #4a6c50;
+}
+a:hover {
+  color: #2f4858;
+}
+
+hr, .site-header, .site-footer {
+  border-color: #c7d3c0;
+}
